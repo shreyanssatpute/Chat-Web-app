@@ -1,13 +1,14 @@
 {
-  "homepage": "https://shreyanssatpute.github.io/messenger-app",
+  
   "name": "backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "predeploy":"npm run build", 
-    "deploy":"gh pages -d build"
+
+  
+
   },
   "author": "",
   "license": "ISC",
